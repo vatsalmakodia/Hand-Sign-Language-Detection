@@ -61,7 +61,7 @@ typing-extensions	            4.5.0
 urllib3	                      1.26.14	
 wheel	                        0.38.4	
 
-
+## Training your own custom model
 If you want to train your own custom model simply run the DataCollection.py file and go on capturing the images and storing them in the default location or your preferred location and keep changing the alphabets in the code after you are done.
 All the images will be captured in 1:1 ratio or 300x300 px for training purpose
 
