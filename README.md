@@ -2,7 +2,7 @@
 This project can detect the 26 alphabets/ letters of the American Sign Language and display it on the screen real-time. 
 
 
-##headings One needs to install these packages before running the project:
+## One needs to install these packages before running the project:
 Markdown	                    3.4.1	
 MarkupSafe	                  2.1.2	
 Pillow	                      9.4.0	
