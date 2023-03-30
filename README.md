@@ -78,4 +78,4 @@ For training the model one can also use Teachable Machine by Google.
 
 
 
-Also special thanks to https://github.com/murtazahassan without shim this project wouldn't be possible.
+Also special thanks to [murtazahassan](https://github.com/murtazahassan) without whom this project wouldn't be possible.
