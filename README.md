@@ -1,6 +1,13 @@
 # Sign-Language-Detection
 This project can detect the 26 alphabets/ letters of the American Sign Language and display it on the screen real-time. 
 
+## Results
+![Screenshot (68)](https://user-images.githubusercontent.com/107043156/228810704-a7157ffc-a371-48e6-b7f8-7d9c825af32c.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/107043156/228810713-5ae1ecf0-dece-4f55-b85a-076be5616f10.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/107043156/228810718-6ef9063b-db52-40f1-8726-0d41f06c6b30.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/107043156/228810721-1efed921-bfd3-4b56-a25f-9bcf28937048.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/107043156/228810752-c399c0dd-1f2c-44b1-85dc-356f6d59cd6f.png)
+
 
 ## One needs to install these packages before running the project:
 Markdown	                    3.4.1	
