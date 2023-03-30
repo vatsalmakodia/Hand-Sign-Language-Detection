@@ -1,7 +1,7 @@
 # Sign-Language-Detection
 This project can detect the 26 alphabets/ letters of the American Sign Language and display it on the screen real-time. 
 
-## Results
+## Some Results
 ![Screenshot (68)](https://user-images.githubusercontent.com/107043156/228810704-a7157ffc-a371-48e6-b7f8-7d9c825af32c.png)
 ![Screenshot (64)](https://user-images.githubusercontent.com/107043156/228810713-5ae1ecf0-dece-4f55-b85a-076be5616f10.png)
 ![Screenshot (66)](https://user-images.githubusercontent.com/107043156/228810718-6ef9063b-db52-40f1-8726-0d41f06c6b30.png)
@@ -74,3 +74,8 @@ All the images will be captured in 1:1 ratio or 300x300 px for training purpose
 
 
 For training the model one can also use Teachable Machine by Google.
+
+
+
+
+Also special thanks to https://github.com/murtazahassan without shim this project wouldn't be possible.
