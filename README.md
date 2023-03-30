@@ -1,5 +1,5 @@
 # Hand Sign Language Detection
-This project can detect the 26 alphabets/ letters of the American Sign Language and display it on the screen real-time. 
+This project can detect all the 26 alphabets/ letters based of American Sign Language and display it on the screen real-time. It is based upon the Live Hand Tracking model developed earlier.
 
 ## Some Results
 ![Screenshot (68)](https://user-images.githubusercontent.com/107043156/228810704-a7157ffc-a371-48e6-b7f8-7d9c825af32c.png)
